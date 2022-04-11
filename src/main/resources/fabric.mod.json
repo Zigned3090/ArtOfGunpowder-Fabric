@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "artgunpowder",
+  "version": "${version}",
+
+  "name": "Art of Gunpowder",
+  "description": "",
+  "authors": [
+    "Zigned"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/Zigned3090/ArtOfGunpowder"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/art_gunpowder/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "mc.art.gunpowder.ModMain"
+    ],
+    "client": [
+      "mc.art.gunpowder.ModClient"
+    ]
+  },
+  "mixins": [
+    "ag.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

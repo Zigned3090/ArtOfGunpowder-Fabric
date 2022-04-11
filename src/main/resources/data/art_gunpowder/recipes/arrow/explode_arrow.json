@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BBB",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "art_gunpowder:special_gunpowder"
+    },
+    "B": {
+      "item": "minecraft:arrow"
+    },
+    "C": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "art_gunpowder:explode_arrow",
+    "count": 3
+  }
+}

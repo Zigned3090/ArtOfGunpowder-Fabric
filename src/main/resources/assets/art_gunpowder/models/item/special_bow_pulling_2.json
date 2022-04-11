@@ -1,0 +1,6 @@
+{
+  "parent": "art_gunpowder:item/special_bow",
+  "textures": {
+    "layer0": "art_gunpowder:item/special_bow_pulling_2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "art_gunpowder:block/tnt/tnt_2_top",
+    "bottom": "art_gunpowder:block/tnt/tnt_2_bottom",
+    "side": "art_gunpowder:block/tnt/tnt_2_side"
+  }
+}

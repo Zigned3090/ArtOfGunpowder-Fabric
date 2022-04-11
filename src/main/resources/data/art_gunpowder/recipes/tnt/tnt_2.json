@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BAB",
+    "ABA",
+    "BAB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:sand"
+    },
+    "B": {
+      "item": "art_gunpowder:special_gunpowder"
+    }
+  },
+  "result": {
+    "item": "art_gunpowder:tnt_2",
+    "count": 1
+  }
+}

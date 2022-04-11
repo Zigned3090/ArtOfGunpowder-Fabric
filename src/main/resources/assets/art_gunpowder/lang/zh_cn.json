@@ -1,0 +1,24 @@
+{
+  "itemGroup.art_gunpowder.mod_item_group": "火药的艺术",
+
+  "item.art_gunpowder.special_gunpowder": "特制火药",
+  "item.art_gunpowder.detonator": "雷管",
+  "item.art_gunpowder.detonator_2": "烈性雷管",
+  "item.art_gunpowder.super_creeper_spawn_egg": "超级爬行者 刷怪蛋",
+  "item.art_gunpowder.sulphur": "硫磺",
+  "item.art_gunpowder.gunpowder_stick": "Gunpowder Stick",
+  "item.art_gunpowder.explode_arrow": "爆炸箭失",
+  "item.art_gunpowder.special_bow": "特制弓",
+
+  "block.art_gunpowder.tnt_2": "烈性TNT",
+  "block.art_gunpowder.sulphur_ore": "硫磺矿石",
+
+  "entity.art_gunpowder.detonator": "雷管",
+  "entity.art_gunpowder.detonator_2": "烈性雷管",
+  "entity.art_gunpowder.tnt_2": "烈性TNT",
+  "entity.art_gunpowder.super_creeper": "超级爬行者",
+  "entity.art_gunpowder.thrown_tnt": "被掷出的 TNT",
+  "entity.art_gunpowder.explode_arrow": "爆炸箭失",
+
+  "join.message": "感谢你游玩我的模组！-- Art of Gunpowder"
+}

@@ -1,0 +1,24 @@
+{
+  "itemGroup.art_gunpowder.mod_item_group": "Art of Gunpowder",
+
+  "item.art_gunpowder.special_gunpowder": "Special Gunpowder",
+  "item.art_gunpowder.detonator": "Detonator",
+  "item.art_gunpowder.detonator_2": "High Detonator",
+  "item.art_gunpowder.super_creeper_spawn_egg": "Super Creeper Spawn Egg",
+  "item.art_gunpowder.sulphur": "Sulphur",
+  "item.art_gunpowder.gunpowder_stick": "Gunpowder Stick",
+  "item.art_gunpowder.explode_arrow": "Explode Arrow",
+  "item.art_gunpowder.special_bow": "Special Bow",
+
+  "block.art_gunpowder.tnt_2": "High TNT",
+  "block.art_gunpowder.sulphur_ore": "Sulphur Ore",
+
+  "entity.art_gunpowder.detonator": "Detonator",
+  "entity.art_gunpowder.detonator_2": "High Detonator",
+  "entity.art_gunpowder.tnt_2": "High TNT",
+  "entity.art_gunpowder.super_creeper": "Super Creeper",
+  "entity.art_gunpowder.thrown_tnt": "Thrown TNT",
+  "entity.art_gunpowder.explode_arrow": "Explode Arrow",
+
+  "join.message": "Thanks for playing my MOD! -- Art of Gunpowder"
+}
