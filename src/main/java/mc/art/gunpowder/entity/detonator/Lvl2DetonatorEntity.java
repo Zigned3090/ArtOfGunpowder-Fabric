@@ -41,8 +41,8 @@ public class Lvl2DetonatorEntity extends ThrownItemEntity {
     protected void onEntityHit(EntityHitResult entityHitResult) {
         super.onEntityHit(entityHitResult);
         if(!this.world.isClient) {
-            world.createExplosion(this, getX(), getY(), getZ(), 8, true, Explosion.DestructionType.BREAK);
-            this.world.sendEntityStatus(this, (byte) 8);
+            world.createExplosion(this, getX(), getY(), getZ(), 7, true, Explosion.DestructionType.BREAK);
+            this.world.sendEntityStatus(this, (byte) 4);
             this.remove(RemovalReason.KILLED);
         }
     }
@@ -50,8 +50,8 @@ public class Lvl2DetonatorEntity extends ThrownItemEntity {
     protected void onCollision(HitResult hitResult) {
         super.onCollision(hitResult);
         if(!this.world.isClient) {
-            world.createExplosion(this, getX(), getY(), getZ(), 8, true, Explosion.DestructionType.BREAK);
-            this.world.sendEntityStatus(this, (byte) 8);
+            world.createExplosion(this, getX(), getY(), getZ(), 7, true, Explosion.DestructionType.BREAK);
+            this.world.sendEntityStatus(this, (byte) 4);
             this.remove(RemovalReason.KILLED);
         }
     }
